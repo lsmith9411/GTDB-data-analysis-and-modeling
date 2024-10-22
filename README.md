@@ -68,7 +68,7 @@ Tech Stack: Python, PyTorch, Pandas, NumPy, Tensorflow
 <img src="https://i.imgur.com/fbl2Q2f.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-<img src="https://i.imgur.com/1Y5upUS.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/HhJbskp.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 
