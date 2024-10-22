@@ -1,8 +1,12 @@
 # GTDB-data-analysis-and-modeling
 
 <h2>Description</h2>
+Analyzing Terrorism Data from 1970-2021
+<br />
 Cleaned and combined data on over 181.7 thousand terrorist attacks around the world
+<br />
 Found correlation between attack locations and other overlooked features
+<br />
 Created a GAN model to produce maps containing future attack locations
 <br />
 
