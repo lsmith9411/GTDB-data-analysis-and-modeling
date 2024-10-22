@@ -4,7 +4,6 @@
 Cleaned and combined data on over 181.7 thousand terrorist attacks around the world
 Found correlation between attack locations and other overlooked features
 Created a GAN model to produce maps containing future attack locations
-Tech Stack: Python, PyTorch, Pandas, NumPy, Tensorflow
 <br />
 
 
